@@ -1,0 +1,1 @@
+# Basic DOKKU Rails 7 Deployment script for Digital Ocean
